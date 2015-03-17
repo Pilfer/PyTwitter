@@ -29,3 +29,5 @@ else:
 
 
 ```
+
+Once you've got your access token, secret, and user id you can start making API calls through Twitter's v1.1 REST API. You can find extra documentation for this on their developer panel.
